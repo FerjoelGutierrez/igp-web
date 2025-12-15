@@ -1,0 +1,5 @@
+{
+  "name": "App web igp",
+  "description": "An intelligent tool to analyze, audit, and improve legacy HTML and CSS code using Google Gemini.",
+  "requestFramePermissions": []
+}
